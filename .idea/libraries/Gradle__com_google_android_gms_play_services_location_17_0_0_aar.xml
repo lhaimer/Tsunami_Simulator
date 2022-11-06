@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-location:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/6d9e0d908b00b79eeacc3bf9cb4434a3/transformed/play-services-location-17.0.0/res" />
+      <root url="file://$USER_HOME$/Documents/Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/639fc370dff06ebe932cbec6899db0fa/transformed/play-services-location-17.0.0/res" />
+      <root url="file://$USER_HOME$/Documents/Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e73eb9ef9186e51f3c04a73ca69a4f53/transformed/jetified-play-services-location-17.0.0/res" />
+      <root url="file://$USER_HOME$/Documents/Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/c8b5716a795e3fa01d4d1121fe0e6905/transformed/jetified-play-services-location-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c8b5716a795e3fa01d4d1121fe0e6905/transformed/jetified-play-services-location-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c8b5716a795e3fa01d4d1121fe0e6905/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c8b5716a795e3fa01d4d1121fe0e6905/transformed/jetified-play-services-location-17.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
